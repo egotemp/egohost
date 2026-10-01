@@ -1,2 +1,8 @@
-python-telegram-bot[job-queue]
-telethon
+python-telegram-bot[job-queue]==21.6
+telethon==1.36.0
+aiohttp
+requests
+uvloop
+edge-tts
+deep-translator
+cryptg
